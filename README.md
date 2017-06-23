@@ -19,13 +19,4 @@ github标记语言
 [Link](url) and ![Image](src)
 存放该github page的布局细节存在于该theme下repository中的`_config.yml`文件。
 ```
-markdown
 想参阅更多细节可以访问 [GitHub支持的标记](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhangmengxuan/zhangmengxuan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
