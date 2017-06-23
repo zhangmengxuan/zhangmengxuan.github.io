@@ -1,16 +1,8 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/zhangmengxuan/zhangmengxuan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-<a>a元素？</a>
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+# 我的博客标题
+这是正文第一段，里面包含了一个[超链接](http://xiaozhang.get.vip/)，点击该超链接可以链接到我自己的服务器上的个人页面。
+### 以下部分是github规定的标记语言。
 ```markdown
-Syntax highlighted code block
+github标记语言
 
 # Header 1
 ## Header 2
@@ -25,9 +17,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+存放该github page的布局细节存在于该theme下repository中的`_config.yml`文件。
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+markdown
+想参阅更多细节可以访问 [GitHub支持的标记](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
